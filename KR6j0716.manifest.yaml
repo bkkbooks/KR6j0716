@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0716_000.yaml, hash: 'sha256:8d3675dde0f943f3d39ca796f0ba1c8f6ab321492a24351bead6a320f8adadae'}
+  - {seq: 0, filename: KR6j0716_000.yaml, hash: 'sha256:34ff6c89866492077e7c406a954cc39d5bd18a8dac36cc64dc55d579ca4797a3'}
   - {seq: 1, filename: KR6j0716_001.yaml, hash: 'sha256:34403bd483923f492ffdc1bd9a8a076cf9caf856876f0fe570450b2c8e70f49d'}
   - {seq: 2, filename: KR6j0716_002.yaml, hash: 'sha256:6bee906e7c67d39843178bd3357aebf0caf882569f1b1508cd64cc7e0b8cfbaf'}
   - {seq: 3, filename: KR6j0716_003.yaml, hash: 'sha256:be18fb9c30bfcd63579f9f236256b0c8498b7c5e9c3e8360bb5df58668343a7a'}
@@ -33,7 +33,7 @@ assets:
   - {seq: 9, filename: KR6j0716_009.yaml, hash: 'sha256:f8ba0e1a32fe86299181242a914bf6d7307b6349463b6237f5fe46627a418fb6'}
   - {seq: 10, filename: KR6j0716_010.yaml, hash: 'sha256:4c5bc2353a00c125f413f4f6c0e40b1f2860d9e5f0b4cafd8d3ebdcdc8c13e30'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0716_000.markers.yaml, hash: 'sha256:ce99c153922397ca425136bf8bb05b46e3db2683bb116f537295ef483e9a6403'}
+  - {seq: 0, role: markers, filename: assets/KR6j0716_000.markers.yaml, hash: 'sha256:a3d66e3c6bf3c2ce3a55002c1b533b76f2158a7e430a6bb8fa45834eeb4a65d1'}
   - {seq: 1, role: markers, filename: assets/KR6j0716_001.markers.yaml, hash: 'sha256:f58d50c5c7d7a29f87eb2dd7e6f83a195ea739a5d9c341bf725670d0601d21fc'}
   - {seq: 2, role: markers, filename: assets/KR6j0716_002.markers.yaml, hash: 'sha256:cc4a27872c6bd6b2756e6b95ec92b9c6c3e2c6ca8e0e6ebc28599ece10d8fc4e'}
   - {seq: 3, role: markers, filename: assets/KR6j0716_003.markers.yaml, hash: 'sha256:17088a3b72e0b13def845f6e6a1f6f23f0a217c43b7a30b84108cfc160cb846c'}
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0716_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 308-A 續夢始末
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0716_X_000-mulu-2
     span:
-    - front
+    - body
     - 758
     - 758
   label: 閱疏凡例
@@ -195,7 +195,7 @@ table_of_contents:
   label: No. 308-B
   type: mulu
   level: 1
-hash: sha256:5f1a1351e93b3b4d30f1c1a172b0a9e9509c3d695420c328d65f52b3db42a077
+hash: sha256:a6fdf6d9dbb86d4596728bd58abd92bb22bb0df39f22a62740f5b34a2e9ac4a6
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

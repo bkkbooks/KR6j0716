@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0716_000-X.yaml, hash: 'sha256:7375eeeeb9eddce96b2946adeb1eeb50f35873d2415a767a6c4f6bf72d490b9c'}
+  - {seq: 0, filename: KR6j0716_000-X.yaml, hash: 'sha256:1cdc9dd33d4a2ea95061573437c013a0877f78b46c626de646d87db599898ee7'}
   - {seq: 1, filename: KR6j0716_001-X.yaml, hash: 'sha256:5e1aae1dee3bd5bff36ed38c38703dbf0d3fbf60ad9071066cb75b019dc8d716'}
   - {seq: 2, filename: KR6j0716_002-X.yaml, hash: 'sha256:9d24032e57db163d857b3f40aa8146ae0e9fcaa73e46f4d0947b40a70d8dab13'}
   - {seq: 3, filename: KR6j0716_003-X.yaml, hash: 'sha256:c9a5762ff506dd787b3c717f20feb75e5ac7b0cb2ee114698a0cef07c297931a'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 9, filename: KR6j0716_009-X.yaml, hash: 'sha256:0ae14acf38671913f3a73bb11c07fc4c67d1c2c01dd5d7e82046fa5a1e15e1d0'}
   - {seq: 10, filename: KR6j0716_010-X.yaml, hash: 'sha256:7205eab7dc237e17d8502e4b882a726ff6380e3bb3ac0869ef9c2ca07071a0e4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0716_000-X.markers.yaml, hash: 'sha256:c20b70cbb08dd6de962c89e3d9cc1113402fb493420339a740c08e9f11c2a3e2'}
+  - {seq: 0, role: markers, filename: assets/KR6j0716_000-X.markers.yaml, hash: 'sha256:5d9b1b0aba605b3257a624b1684a7345ef42c41c1aca3b155445ef4474f18d0a'}
   - {seq: 1, role: markers, filename: assets/KR6j0716_001-X.markers.yaml, hash: 'sha256:fb60d267b13db14b462ffdf139c6059e016a617e6c4f533ac4a88bfa43bb02fb'}
   - {seq: 2, role: markers, filename: assets/KR6j0716_002-X.markers.yaml, hash: 'sha256:956dbe898af05835a5f470fd11b3743b09ffbd7302956bc49a0967f416ba0bc7'}
   - {seq: 3, role: markers, filename: assets/KR6j0716_003-X.markers.yaml, hash: 'sha256:f325ea4b7885ea532a28c96c0fb4a817034d92edade5def8cc81d20611bc619f'}
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0716_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 308-A 續夢始末
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0716_X_000-mulu-2
     span:
-    - front
+    - body
     - 758
     - 758
   label: 閱疏凡例
@@ -193,4 +193,4 @@ table_of_contents:
   label: No. 308-B
   type: mulu
   level: 1
-hash: sha256:25a0faae6eb886dfe036cf2af26a87474dacb72d0744d1742ae4104198618ef4
+hash: sha256:1bcd350f82bcadb33f27255d200e19f3853fc1e25626e71b2474dbb1c0f9e49e
